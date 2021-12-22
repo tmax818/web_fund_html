@@ -1,0 +1,5 @@
+term, definition
+HTML, the main markup language for all web pages. It stands for Hypertext Markup Language.
+HTML tags, describe the content they contain.
+nesting, when tags encapsulate other tags.
+DOM, Document Object Model - The hierarchy that rises from nesting.  

@@ -10,11 +10,8 @@ Welcome to web_fund_html's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   html/index
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
