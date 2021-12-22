@@ -22,7 +22,7 @@ Why HTML and CSS
 When building a web application we believe it is best to always start with a clickable prototype involving only HTML, CSS, and Javascript so it is only natural to teach these technologies first.
 
 Create a Simple HTML Document
-===============================
+*******************************
 
 .. literalinclude:: code/hello_world.html
   :language: HTML
