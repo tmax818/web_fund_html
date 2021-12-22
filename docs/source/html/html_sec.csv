@@ -1,0 +1,6 @@
+term, definition
+:code:`<!doctype html>`, Tells the browser that we want our document read in standard mode.
+:code:`<html>`, indicates that everything between its tags will be marked-up using HTML conventions.
+:code:`<head>`, contains meta-data about document style sheets and js libraries.
+:code:`<body>`, contains everything in the document that will be visible in the browser window.
+:code:`<div>`, stands for division used for additional sections.
